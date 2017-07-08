@@ -15,7 +15,7 @@ type geometry interface {
 
 
 type rect struct {
-width, height float64
+	width, height float64
 }
 
 type circle struct {
